@@ -1,0 +1,6 @@
+D:\CODE_GITHUB\VShop\VShop.Common\bin\Debug\VShop.Common.dll
+D:\CODE_GITHUB\VShop\VShop.Common\bin\Debug\VShop.Common.pdb
+D:\CODE_GITHUB\VShop\VShop.Common\obj\Debug\VShop.Common.csproj.AssemblyReference.cache
+D:\CODE_GITHUB\VShop\VShop.Common\obj\Debug\VShop.Common.csproj.CoreCompileInputs.cache
+D:\CODE_GITHUB\VShop\VShop.Common\obj\Debug\VShop.Common.dll
+D:\CODE_GITHUB\VShop\VShop.Common\obj\Debug\VShop.Common.pdb

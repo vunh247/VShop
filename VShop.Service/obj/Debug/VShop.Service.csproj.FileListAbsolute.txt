@@ -1,0 +1,15 @@
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Service.dll
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Service.pdb
+D:\CODE_GITHUB\VShop\VShop.Service\obj\Debug\VShop.Service.csproj.AssemblyReference.cache
+D:\CODE_GITHUB\VShop\VShop.Service\obj\Debug\VShop.Service.csproj.CoreCompileInputs.cache
+D:\CODE_GITHUB\VShop\VShop.Service\obj\Debug\VShop.Service.dll
+D:\CODE_GITHUB\VShop\VShop.Service\obj\Debug\VShop.Service.pdb
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Common.dll
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Data.dll
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Model.dll
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Common.pdb
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Data.pdb
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Data.dll.config
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Model.pdb
+D:\CODE_GITHUB\VShop\VShop.Service\bin\Debug\VShop.Model.dll.config
+D:\CODE_GITHUB\VShop\VShop.Service\obj\Debug\VShop.Service.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\CODE_GITHUB\VShop\VShop.Model\bin\Debug\VShop.Model.dll
+D:\CODE_GITHUB\VShop\VShop.Model\bin\Debug\VShop.Model.pdb
+D:\CODE_GITHUB\VShop\VShop.Model\obj\Debug\VShop.Model.csproj.AssemblyReference.cache
+D:\CODE_GITHUB\VShop\VShop.Model\obj\Debug\VShop.Model.csproj.CoreCompileInputs.cache
+D:\CODE_GITHUB\VShop\VShop.Model\obj\Debug\VShop.Model.dll
+D:\CODE_GITHUB\VShop\VShop.Model\obj\Debug\VShop.Model.pdb
+D:\CODE_GITHUB\VShop\VShop.Model\bin\Debug\VShop.Model.dll.config
+D:\CODE_GITHUB\VShop\VShop.Model\bin\Debug\EntityFramework.dll
+D:\CODE_GITHUB\VShop\VShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE_GITHUB\VShop\VShop.Model\bin\Debug\EntityFramework.xml
+D:\CODE_GITHUB\VShop\VShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE_GITHUB\VShop\VShop.Model\obj\Debug\VShop.Model.csproj.CopyComplete
